@@ -1,0 +1,3 @@
+include ':MyToastLibray'
+include ':app'
+rootProject.name = "NewLostPhoneClone"
